@@ -1,2 +1,11 @@
 Fibonacci: SCAMP TECHNICAL.
 Fibonacci: sequence of numbers
+
+
+
+Print('print Fibonacci sequence of numbers')
+For i in range(0-20):
+    Print(i)
+
+
+Got remote add origin [git@github.com:Hussaina-ssh/SCAMP-Technic]
