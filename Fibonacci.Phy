@@ -8,4 +8,4 @@ For i in range(0-20):
     Print(i)
 
 
-Got remote add origin [git@github.com:Hussaina-ssh/SCAMP-Technic]
+Got remote add origin [https://github.com:Hussaina-ssh/SCAMP-Technic]
